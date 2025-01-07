@@ -1,0 +1,12 @@
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\bin\Debug\WordChecker.exe.config
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\bin\Debug\WordChecker.exe
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\bin\Debug\WordChecker.pdb
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\obj\Debug\WordChecker.csproj.AssemblyReference.cache
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\obj\Debug\WordChecker.csproj.CoreCompileInputs.cache
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\obj\Debug\WordChec.B3BA6C4E.Up2Date
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\obj\Debug\WordChecker.exe
+C:\Users\FengZhe\Desktop\Study\Gproject\WordChecker\WordChecker\obj\Debug\WordChecker.pdb
